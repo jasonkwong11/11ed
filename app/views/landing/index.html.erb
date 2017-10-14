@@ -1,4 +1,8 @@
 <head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<style>
 		.row {
 			margin: 0px !important;
@@ -6,6 +10,19 @@
 			display: inline-block;
 			padding-top: 35px;
 			padding-bottom: 35px;
+		}
+
+		a:link, a:visited {
+		    background-color: #5BC0DE;
+		    color: white;
+		    padding: 14px 25px;
+		    text-align: center;
+		    text-decoration: none;
+		    display: inline-block;
+		}
+
+		a:hover, a:active {
+		    background-color: white;
 		}
 
 		.even {
@@ -61,6 +78,7 @@
 					<p>
 						Eleven Education is for serious students seeking an highly effective teacher with experience applying to top schools. We believe that with hard work, anything is possible. This program is not for the lazy or uninterested. If you follow our instruction, we guarantee improvement or your money back.
 					</p>
+					<%= image_tag('sat-scores.jpeg', alt: 'jasons-sat', size: "460x370") %>
 			</div>
 			<div class="col-lg-3 col-md-3 right-side">
 			</div>
@@ -175,9 +193,9 @@
 		<div class="col-md-6 col-sm-12 col-xs-12">
 			<h2>How does it work?</h2>
 			<p>
-				You book a weekly schedule for 4 weeks. You can book as many open time slots as you’d like. We will meet on the same day(s) and time(s) for 4 consecutive weeks through Skype. Materials will be given to you online to complete. In person-sessions are also available if you're in the DC area.
+				You book a weekly schedule for 4 weeks. You can book as many open time slots as you’d like. We will meet on the same day(s) and time(s) for 4 consecutive weeks through Skype. Materials will be given to you online to complete. In-person sessions are also available if you're in the DC area.
 				<br><br>
-				<button>Book Jason Risk-Free</button><br><br>
+				<a href="../booking/index" class="btn btn-lg btn-block">Schedule Lessons</a><br><br>
 				<%= image_tag('jason.jpeg', alt: 'jason-head-shot', size: "190x190") %>
 			</p>
 		</div>

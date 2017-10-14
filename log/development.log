@@ -1995,3 +1995,469 @@ Processing by LandingController#index as HTML
 Completed 200 OK in 57ms (Views: 54.4ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:34:20 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+Completed 200 OK in 79ms (Views: 77.2ms)
+
+
+Started GET "/booking/index" for 127.0.0.1 at 2017-10-14 17:34:22 -0400
+Processing by BookingController#index as HTML
+  Rendering booking/index.html.erb within layouts/application
+  Rendered booking/index.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+Completed 200 OK in 73ms (Views: 69.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:34:34 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (1.9ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+Completed 200 OK in 54ms (Views: 52.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:34:37 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+Completed 200 OK in 53ms (Views: 50.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:35:14 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.3ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+Completed 200 OK in 58ms (Views: 56.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:35:16 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.4ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+Completed 200 OK in 65ms (Views: 63.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:35:50 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (1.7ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 61ms (Views: 59.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:36:05 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 52ms (Views: 50.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:36:41 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (3.2ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 67ms (Views: 62.1ms)
+
+
+Started GET "/booking/index" for 127.0.0.1 at 2017-10-14 17:36:48 -0400
+Processing by BookingController#index as HTML
+  Rendering booking/index.html.erb within layouts/application
+  Rendered booking/index.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+Completed 200 OK in 74ms (Views: 72.2ms)
+
+
+Started GET "/booking/index" for 127.0.0.1 at 2017-10-14 17:38:42 -0400
+Processing by BookingController#index as HTML
+  Rendering booking/index.html.erb within layouts/application
+  Rendered booking/index.html.erb within layouts/application (1.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+Completed 200 OK in 85ms (Views: 83.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:39:24 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (3.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+Completed 200 OK in 72ms (Views: 68.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:39:36 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+Completed 200 OK in 51ms (Views: 49.7ms)
+
+
+Started GET "/booking/index" for 127.0.0.1 at 2017-10-14 17:39:45 -0400
+Processing by BookingController#index as HTML
+  Rendering booking/index.html.erb within layouts/application
+  Rendered booking/index.html.erb within layouts/application (0.8ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+Completed 200 OK in 77ms (Views: 73.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:43:57 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (9.7ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 85ms (Views: 83.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:44:01 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.6ms)
+  Rendered layouts/_header.html.erb (1.7ms)
+Completed 200 OK in 66ms (Views: 64.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:44:12 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+Completed 200 OK in 65ms (Views: 61.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:44:28 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 55ms (Views: 52.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:44:47 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.2ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 68ms (Views: 65.7ms)
+
+
+Started GET "/booking/index" for 127.0.0.1 at 2017-10-14 17:45:17 -0400
+Processing by BookingController#index as HTML
+  Rendering booking/index.html.erb within layouts/application
+  Rendered booking/index.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+Completed 200 OK in 72ms (Views: 66.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:46:04 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+Completed 200 OK in 60ms (Views: 57.9ms)
+
+
+Started GET "/booking/index" for 127.0.0.1 at 2017-10-14 17:46:15 -0400
+Processing by BookingController#index as HTML
+  Rendering booking/index.html.erb within layouts/application
+  Rendered booking/index.html.erb within layouts/application (0.8ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+Completed 200 OK in 84ms (Views: 81.8ms)
+
+
+Started GET "/booking/index" for 127.0.0.1 at 2017-10-14 17:46:19 -0400
+Processing by BookingController#index as HTML
+  Rendering booking/index.html.erb within layouts/application
+  Rendered booking/index.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 142ms (Views: 139.1ms)
+
+
+Started GET "/booking/index" for 127.0.0.1 at 2017-10-14 17:47:00 -0400
+Processing by BookingController#index as HTML
+  Rendering booking/index.html.erb within layouts/application
+  Rendered booking/index.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+Completed 200 OK in 75ms (Views: 72.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:47:07 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (3.2ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+Completed 200 OK in 114ms (Views: 112.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:47:09 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.2ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+Completed 200 OK in 85ms (Views: 74.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:47:28 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (248.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+Completed 200 OK in 650ms (Views: 383.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:48:37 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (24.9ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 86ms (Views: 83.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:49:06 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (4.3ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+Completed 200 OK in 101ms (Views: 98.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:49:09 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (4.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 60ms (Views: 56.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:49:22 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (217.6ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+Completed 200 OK in 498ms (Views: 282.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:49:43 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 68ms (Views: 65.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:52:41 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+Completed 200 OK in 40ms (Views: 38.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:55:03 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+Completed 200 OK in 48ms (Views: 45.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:55:51 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (8.3ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+Completed 200 OK in 66ms (Views: 62.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:56:09 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (5.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+Completed 200 OK in 57ms (Views: 55.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:57:45 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (3.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 46ms (Views: 43.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:57:47 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.3ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+Completed 200 OK in 34ms (Views: 31.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:57:55 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.6ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+Completed 200 OK in 46ms (Views: 42.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 17:59:31 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.6ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 42ms (Views: 39.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 18:00:28 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.3ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+Completed 200 OK in 49ms (Views: 47.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 18:00:31 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (1.9ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 33ms (Views: 30.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 18:00:57 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+Completed 200 OK in 39ms (Views: 37.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 18:01:13 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.7ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 41ms (Views: 38.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 18:01:50 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.3ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+Completed 200 OK in 42ms (Views: 38.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 18:02:05 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+Completed 200 OK in 41ms (Views: 39.4ms)
+
+
+Started GET "/booking/index" for 127.0.0.1 at 2017-10-14 18:02:10 -0400
+Processing by BookingController#index as HTML
+  Rendering booking/index.html.erb within layouts/application
+  Rendered booking/index.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+Completed 200 OK in 56ms (Views: 51.0ms)
+
+
+Started GET "/booking/index" for 127.0.0.1 at 2017-10-14 18:09:08 -0400
+Processing by BookingController#index as HTML
+  Rendering booking/index.html.erb within layouts/application
+  Rendered booking/index.html.erb within layouts/application (0.8ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 79ms (Views: 75.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 18:32:24 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (118.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 182ms (Views: 179.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 18:32:57 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (3.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 44ms (Views: 41.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 18:34:56 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (3.5ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 36ms (Views: 34.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 18:36:00 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.9ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 39ms (Views: 37.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 18:36:13 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (2.5ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 41ms (Views: 39.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 18:38:02 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (4.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 37ms (Views: 35.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 18:38:54 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (3.5ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 37ms (Views: 35.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-14 18:48:43 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (145.8ms)
+Completed 500 Internal Server Error in 428ms
+
+
+  
+ActionView::Template::Error (The asset "sat-scores.jpeg" is not present in the asset pipeline.):
+    78: 					<p>
+    79: 						Eleven Education is for serious students seeking an highly effective teacher with experience applying to top schools. We believe that with hard work, anything is possible. This program is not for the lazy or uninterested. If you follow our instruction, we guarantee improvement or your money back.
+    80: 					</p>
+    81: 					<%= image_tag('sat-scores.jpeg', alt: 'jasons-sat', size: "460x370") %>
+    82: 			</div>
+    83: 			<div class="col-lg-3 col-md-3 right-side">
+    84: 			</div>
+  
+app/views/landing/index.html.erb:81:in `_app_views_landing_index_html_erb___1871279220829651589_70103750942740'
+Started GET "/" for 127.0.0.1 at 2017-10-14 18:48:59 -0400
+Processing by LandingController#index as HTML
+  Rendering landing/index.html.erb within layouts/application
+  Rendered landing/index.html.erb within layouts/application (211.2ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+Completed 200 OK in 312ms (Views: 309.2ms)
+
+
